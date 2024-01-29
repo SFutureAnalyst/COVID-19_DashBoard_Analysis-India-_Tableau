@@ -1,1 +1,1 @@
-# COVID-19_DashBoard_Analysis-India-_Tableau
+# COVID-19 DashBoard Analysis - India
